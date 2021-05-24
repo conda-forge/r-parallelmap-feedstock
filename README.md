@@ -3,7 +3,7 @@ About r-parallelmap
 
 Home: https://github.com/berndbischl/parallelMap
 
-Package license: BSD_2_clause
+Package license: BSD-2-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-parallelmap-feedstock/blob/master/LICENSE.txt)
 
