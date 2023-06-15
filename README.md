@@ -1,11 +1,11 @@
-About r-parallelmap
-===================
+About r-parallelmap-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-parallelmap-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/berndbischl/parallelMap
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-parallelmap-feedstock/blob/main/LICENSE.txt)
 
 Summary: Unified parallelization framework for multiple back-end, designed for internal package and interactive usage.  The main operation is parallel mapping over lists.  Supports 'local', 'multicore', 'mpi' and 'BatchJobs' mode.  Allows tagging of the parallel operation with a level name that can be later selected by the user to switch on parallel execution for exactly this operation.
 
